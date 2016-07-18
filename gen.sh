@@ -8,6 +8,5 @@ printf "-"
 printf " $NUM"
 
 printf "\n"
-printf "\n"
 
 done
